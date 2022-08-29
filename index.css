@@ -1,0 +1,25 @@
+body{
+    background-color: paleturquoise;
+}
+
+.box-part{
+    background-color: azure;
+    padding: 50px 50px;
+    margin: 30px 5px;
+}
+
+.fa{
+    color:cornflowerblue;
+}
+
+a{
+    border-bottom: 1px solid cornflowerblue;
+}
+
+p{
+    font-size: 12px;
+}
+
+.box{
+    padding: 70px 0px;
+}
